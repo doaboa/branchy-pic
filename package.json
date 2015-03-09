@@ -1,0 +1,14 @@
+{
+  "name": "branchy-pic",
+  "version": "0.0.0",
+  "description": "Redirects test status image url based on branch",
+  "main": "lib/branchy-pic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.12.2"
+  }
+}
